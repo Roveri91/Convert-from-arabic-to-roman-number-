@@ -32,7 +32,7 @@ App home: https://roveri91.github.io/Convert-from-arabic-to-roman-number-/
 🗿 Created by:
 ---
 
-Simone Roveri
+[Simone Roveri](https://www.linkedin.com/in/simone-roveri/)
 
 💅 Contributing
 ---
