@@ -21,7 +21,7 @@ The RomanNumeralConverter is a user-friendly mobile application designed to effo
 📕 Usage
 ---
 
-App home: [https://roveri91.github.io/Convert-from-arabic-to-roman-number-/](https://roveri91.github.io/Convert-from-arabic-to-roman-number-/
+App home: https://roveri91.github.io/Convert-from-arabic-to-roman-number-/
 
 🔨 Built With
 ---
@@ -37,13 +37,4 @@ Simone Roveri
 💅 Contributing
 ---
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-**OVERVIEW**
-
-Our team has developed an app that allows you to rent people or services for your wedding. 
-With our app, you can not only rent services but also offer your own services to others.
-
-
-💅 Contributing
----
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
